@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ###  Backend 
 ![python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
-![nodeJs](https://img.shields.io/badge/-nodeJs-black?style=flat-square&logo=nodeJs)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ### VERSION CONTROLS
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
