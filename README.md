@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ###  Backend 
 ![python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ### VERSION CONTROLS
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
