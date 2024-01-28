@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hey 🙋‍♀️ I am Anushka 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&pause=1000&color=F7566D&random=false&width=435&lines=+Welcome+to+my+GitHub)](https://git.io/typing-svg)
 ## Languages, Tools & Framework: 
-#### Frontend
+### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 ### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
-#### VERSION CONTROLS
+###  Backend 
+![python](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=python)
+### VERSION CONTROLS
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
