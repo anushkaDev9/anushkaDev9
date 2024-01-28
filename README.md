@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hey 🙋‍♀️ I am Anushka 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&pause=1000&color=F7566D&random=false&width=435&lines=+Welcome+to+my+GitHub)](https://git.io/typing-svg)
-### Languages, Tools & Framework: 
+### Languages, Tools & Framework: <br/>
 Frontend Languages 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
